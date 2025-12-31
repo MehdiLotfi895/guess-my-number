@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+   
+}
+#restart{
+    background-color: white;
+    color:black;
+    margin-top:20px;
+    margin-left: 20px;
+    padding: 30px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+    font-family:'Arial, Helvetica, sans-serif';
+    font-weight:bolder;
+}
+#rage{
+    color:white;
+    font-size:30px;
+    width:200px;
+    position: absolute;
+    top:35px;
+    right:40px;
+
+}
+
+#hr{
+    background-color: white;
+    height:5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#q{
+    width:50px;
+    background-color: white;
+    height:50px;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+#gamename{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    
+}
+#input{
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    width:120px;
+    height:30px;
+    padding: 10px;
+}
+#message{
+    width:250px;
+    height:30px;
+    padding: 10px;
+    background-color: aliceblue;
+    margin-right: 40px;
+    text-align: center;
+    padding: 5px; 
+}
+#check{
+    margin-left: 60px;
+    width:60px;
+    height:60px;
+}
+#a{
+    display: flex;
+    justify-content: space-between;
+
+}
+#score{
+    background-color: white;
+    width: 200px;
+    height:80px;
+    margin-right: 60px;
+    text-align: center;
+    
+
+}
+#e{
+    margin-top: 10px;
+}
